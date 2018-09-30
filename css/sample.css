@@ -173,9 +173,6 @@ footer {
   color: #fff;
   padding-top: 20px; }
   @media (max-width: 550px) {
-    footer .container {
-      margin: 0;
-      padding: 0; }
     footer .sp {
       padding: 0 6%;
       margin: 0 auto; }
